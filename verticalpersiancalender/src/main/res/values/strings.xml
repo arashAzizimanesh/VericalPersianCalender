@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Presian calender</string>
+    <string name="shanbe">Saturday</string>
+    <string name="yek_shanbe">Sunday</string>
+    <string name="do_shanbe">Monday</string>
+    <string name="se_shanbe">Tuesday</string>
+    <string name="chahar_shanbe">Wednesday</string>
+    <string name="panj_shanbe">Thursday</string>
+    <string name="jome">Friday</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

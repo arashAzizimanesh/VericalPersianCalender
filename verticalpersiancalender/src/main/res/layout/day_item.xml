@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:id="@+id/main_txt_lay"
+    android:layout_height="wrap_content">
+
+    <ir.webcando.vpc.customview.CustomTextView
+        android:id="@+id/txt_day"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:autoSizeMinTextSize="20sp"
+        android:textSize="18sp" />
+</RelativeLayout>

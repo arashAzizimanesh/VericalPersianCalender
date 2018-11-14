@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <attr name="selectItem" format="enum">
+
+        <enum name="single" value="0" />
+        <enum name="multi" value="1" />
+    </attr>
+
+
+
+    <attr name="skipMonth" format="integer"></attr>
+    <declare-styleable name="CalenderView">
+        <attr name="selectItem" />
+        <attr name="skipMonth" />
+        <attr name="selectorColor" format="color"/>
+        <attr name="titleColor" format="color"/>
+        <attr name="daysColor" format="color"/>
+
+    </declare-styleable>
+
+
+</resources>
