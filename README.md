@@ -28,7 +28,7 @@ dependencies {
 ```
 
 
-# usa
+# use
 
 in xml
 ```
@@ -52,5 +52,22 @@ calenderView.setFont(font);
         calenderView.setSelectedType(CalenderView.SELECT_ITEM_SINGLE);
         calenderView.setSkipMonth(6);
         calenderView.initView();
+
 ```
 
+get date or dates in code
+
+```
+ calenderView.getOnSelectedDate(new OnSelectedDate() {
+            @Override
+            public void onSelectedSingleDate(String date, String errorMessage) {
+                // one date
+            }
+
+            @Override
+            public void onSelectedMultiDate(List<String> dates, String errorMessage) {
+// multu date
+            }
+        });
+
+```
