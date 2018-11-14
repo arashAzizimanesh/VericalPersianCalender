@@ -3,9 +3,7 @@
 
 
 
- ![](vpc_multi.gif)
-
-![](vpc.gif)    
+ ![](a.gif)    ![](b.gif)    
 
 # dependencies
 
