@@ -20,7 +20,7 @@ allprojects {
 }
 
 dependencies {
-          implementation 'com.github.arashAzizimanesh:VericalPersianCalender:Tag'
+          implementation 'com.github.arashAzizimanesh:VericalPersianCalender:1.0.0'
 }
 
 ```
