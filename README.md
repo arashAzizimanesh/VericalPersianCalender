@@ -20,7 +20,7 @@ allprojects {
 }
 
 dependencies {
-        implementation 'com.github.arashAzizimanesh:SignalRStart:1.0.0'
+          implementation 'com.github.arashAzizimanesh:VericalPersianCalender:Tag'
 }
 
 ```
